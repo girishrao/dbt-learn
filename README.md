@@ -1,1 +1,0 @@
-Hello, dbt world!
